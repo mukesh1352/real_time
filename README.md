@@ -1,4 +1,4 @@
-This is a project on the implementation of a real time functionalities using an esp32 board.gt
+This is a project on the implementation of a real time functionalities using an esp32 board.
 
 
 this is the video link regarding the project :
